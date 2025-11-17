@@ -65,5 +65,8 @@
   },
   "volta": {
     "node": "22.13.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
